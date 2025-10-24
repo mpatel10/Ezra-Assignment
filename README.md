@@ -4,7 +4,7 @@ This guide explains the manual test cases and automated flow for booking a scan 
 
 ## Overview
 
-## The manual test cases are maintained in **Excel** and cover:
+## The manual test cases for Member portal & User portal are maintained in **Excel** and cover:
 - **Question 1**
   - Part 1: Functional test cases
   - Part 1: Negative/Edge test cases
