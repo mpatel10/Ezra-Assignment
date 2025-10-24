@@ -20,8 +20,8 @@ This guide explains the manual test cases and automated flow for booking a scan 
 2. **invalidLogin.js** – Tests invalid login scenario  
 3. **successfulpayment.js** – Tests the full booking flow including:
    - Book a scan
-   - Enter DOB and select Sex
-   - Select MRI scan & recommended label
+   - Enter DOB and select Sex at birth
+   - Select MRI scan & recommended center
    - Pick Date & Time slot
    - Enter payment details
    - Confirm booking success
